@@ -34,10 +34,10 @@ Build a web api in c# language. API needs to return minerals mined by Rio Tinto.
 
 
 ## Challenge 5
-Generating Excel formulas and macros
+### Generating Excel formulas and macros
 
-Data catalog [data.gov](https://catalog.data.gov/dataset/?res_format=CSV)
-Download CSV for [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
+- Data catalog [data.gov](https://catalog.data.gov/dataset/?res_format=CSV)
+- Download CSV for [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 
 ### Excel Formula
 
