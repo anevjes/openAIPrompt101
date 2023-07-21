@@ -36,6 +36,7 @@ Build a web api in c# language. API needs to return minerals mined by Rio Tinto.
 ## Challenge 5
 ### Generating Excel formulas and macros
 
+Prerequisites:
 - Data catalog [data.gov](https://catalog.data.gov/dataset/?res_format=CSV)
 - Download CSV for [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 
@@ -48,3 +49,7 @@ Save the csv as an excel enabled macro.
 ### Excel Macro
 - Create a macro that exports the first 100 rows of the "Electric_Vehicle_Population_Dat" worksheet as a pdf
 - Add a button to trigger the macro
+
+### Complex Excel Formula
+
+- Add a formula in a new worksheet that counts the number of unique makes (column G) in the "Electric_Vehicle_Population_Dat" worksheet
