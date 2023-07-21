@@ -31,3 +31,20 @@ reason, cause, driver_names, insurance_number, location, damages, summary
 
 ## Challenge 4
 Build a web api in c# language. API needs to return minerals mined by Rio Tinto. 
+
+
+## Challenge 5
+Generating Excel formulas and macros
+
+Data catalog [data.gov](https://catalog.data.gov/dataset/?res_format=CSV)
+Download CSV for [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
+
+### Excel Formula
+
+Save the csv as an excel enabled macro.
+
+- Add a forumla in the new worksheet that counts the number of rows in the "Electric_Vehicle_Population_Dat" worksheet
+
+### Excel Macro
+- Create a macro that exports the first 100 rows of the "Electric_Vehicle_Population_Dat" worksheet as a pdf
+- Add a button to trigger the macro
